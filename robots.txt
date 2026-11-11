@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smmpro-pk.github.io/seo-schema-generator/sitemap.xml

@@ -1,0 +1,13 @@
+{
+  "name": "seo-schema-generator",
+  "version": "1.0.0",
+  "description": "Free open-source JSON-LD Schema Markup Generator and Validator by SMMpro.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SMMpro-pk/SEO-Schema-Generator"
+  },
+  "keywords": [],
+  "author": "SMMpro",
+  "license": "MIT"
+}
